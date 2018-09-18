@@ -1,0 +1,29 @@
+{
+  "name": "brandings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-cheerio": "^0.6.3",
+    "gulp-cleanhtml": "^1.0.3",
+    "gulp-csscomb": "^3.0.8",
+    "gulp-modify-css-urls": "^1.1.0",
+    "gulp-param": "^1.0.3",
+    "gulp-svg2png": "^2.0.2",
+    "through2": "^2.0.3",
+    "website-scraper": "^3.3.2",
+    "website-scraper-phantom": "^0.1.0"
+  },
+  "devDependencies": {
+    "gulp-clean-css": "^3.9.4",
+    "gulp-rework": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
