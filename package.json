@@ -9,15 +9,15 @@
     "gulp-cheerio": "^0.6.3",
     "gulp-cleanhtml": "^1.0.3",
     "gulp-csscomb": "^3.0.8",
-    "gulp-modify-css-urls": "^1.1.0",
+    "gulp-modify-css-urls": "^2.0.0",
     "gulp-param": "^1.0.3",
     "gulp-svg2png": "^2.0.2",
     "through2": "^2.0.3",
-    "website-scraper": "^3.3.2",
+    "website-scraper": "^3.3.7",
     "website-scraper-phantom": "^0.1.0"
   },
   "devDependencies": {
-    "gulp-clean-css": "^3.9.4",
+    "gulp-clean-css": "^3.10.0",
     "gulp-rework": "^3.0.0"
   },
   "scripts": {
