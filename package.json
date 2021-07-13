@@ -15,7 +15,7 @@
     "lodash": "^4.17.21",
     "through2": "^2.0.3",
     "website-scraper": "^3.3.7",
-    "website-scraper-phantom": "^0.1.0"
+    "website-scraper-phantom": "^1.0.0"
   },
   "devDependencies": {
     "gulp-clean-css": "^3.10.0",
