@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "dependencies": {
     "del": "^3.0.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-cheerio": "^0.6.3",
     "gulp-cleanhtml": "^1.0.3",
     "gulp-csscomb": "^3.0.8",
