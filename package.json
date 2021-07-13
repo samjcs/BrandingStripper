@@ -18,7 +18,7 @@
     "website-scraper-phantom": "^1.0.0"
   },
   "devDependencies": {
-    "gulp-clean-css": "^3.10.0",
+    "gulp-clean-css": "4.3.0",
     "gulp-rework": "^3.0.0"
   },
   "scripts": {
